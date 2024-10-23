@@ -1,0 +1,1170 @@
+{
+  "ahmedabad": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹3400/Quintal",
+      "lowestPrice": "₹1500.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2450/Quintal",
+      "lowestPrice": "₹1000.00/Quintal",
+      "highestPrice": "₹3500.00/Quintal"
+    },
+    "Sweet Potato": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹4650/Quintal",
+      "lowestPrice": "₹3000.00/Quintal",
+      "highestPrice": "₹5000.00/Quintal"
+    }
+  },
+  "anand-vegyardanand": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹3000/Quintal",
+      "lowestPrice": "₹2500.00/Quintal",
+      "highestPrice": "₹3500.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "07 Mar '24, 12:00 am",
+      "avgPrice": "₹800/Quintal",
+      "lowestPrice": "₹750.00/Quintal",
+      "highestPrice": "₹1000.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Peas cod": {
+      "lastUpdated": "30 Mar '22, 12:00 am",
+      "avgPrice": "₹4800/Quintal",
+      "lowestPrice": "₹4500.00/Quintal",
+      "highestPrice": "₹5000.00/Quintal"
+    }
+  },
+  "ankleshwar": {
+    "Apple": {
+      "lastUpdated": "04 Feb '22, 12:00 am",
+      "avgPrice": "₹4000/Quintal",
+      "lowestPrice": "₹3500.00/Quintal",
+      "highestPrice": "₹4500.00/Quintal"
+    },
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2000/Quintal",
+      "lowestPrice": "₹1500.00/Quintal",
+      "highestPrice": "₹2500.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "01 Oct '24, 12:00 am",
+      "avgPrice": "₹2500/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Methi(Leaves)": {
+      "lastUpdated": "17 Aug '24, 12:00 am",
+      "avgPrice": "₹5000/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹6000.00/Quintal"
+    },
+    "Peas cod": {
+      "lastUpdated": "03 Feb '24, 12:00 am",
+      "avgPrice": "₹2200/Quintal",
+      "lowestPrice": "₹1200.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    }
+  },
+  "bharuch": {
+    "Apple": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹5000/Quintal",
+      "lowestPrice": "₹4000.00/Quintal",
+      "highestPrice": "₹6000.00/Quintal"
+    },
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹1200/Quintal",
+      "lowestPrice": "₹1000.00/Quintal",
+      "highestPrice": "₹1300.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "08 Oct '24, 12:00 am",
+      "avgPrice": "₹2000/Quintal",
+      "lowestPrice": "₹1500.00/Quintal",
+      "highestPrice": "₹2200.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Methi(Leaves)": {
+      "lastUpdated": "21 Aug '24, 12:00 am",
+      "avgPrice": "₹2500/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Mousambi(Sweet Lime)": {
+      "lastUpdated": "08 Oct '24, 12:00 am",
+      "avgPrice": "₹3000/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹3200.00/Quintal"
+    },
+    "Other Pulses": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "bhavnagar": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹6690/Quintal",
+      "lowestPrice": "₹4400.00/Quintal",
+      "highestPrice": "₹8980.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Jowar(Sorghum)": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Other Pulses": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Soyabean": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹3950/Quintal",
+      "lowestPrice": "₹3805.00/Quintal",
+      "highestPrice": "₹4095.00/Quintal"
+    }
+  },
+  "bhuj": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Other Pulses": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "bilimora": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹3200/Quintal",
+      "lowestPrice": "₹3000.00/Quintal",
+      "highestPrice": "₹3500.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "dahod-veg-market": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2500/Quintal",
+      "lowestPrice": "₹1000.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹3500/Quintal",
+      "lowestPrice": "₹3000.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    },
+    "French Beans (Frasbean)": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Sweet Potato": {
+      "lastUpdated": "18 Oct '24, 12:00 am",
+      "avgPrice": "₹3500/Quintal",
+      "lowestPrice": "₹3000.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    }
+  },
+  "damnagar": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹2600/Quintal",
+      "lowestPrice": "₹2150.00/Quintal",
+      "highestPrice": "₹3050.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "deesa-deesa-veg-yard": {
+    "Absinthe": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Apple": {
+      "lastUpdated": "30 Dec '23, 12:00 am",
+      "avgPrice": "₹7375/Quintal",
+      "lowestPrice": "₹6500.00/Quintal",
+      "highestPrice": "₹8250.00/Quintal"
+    },
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2025/Quintal",
+      "lowestPrice": "₹1800.00/Quintal",
+      "highestPrice": "₹2250.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "08 Apr '24, 12:00 am",
+      "avgPrice": "₹675/Quintal",
+      "lowestPrice": "₹400.00/Quintal",
+      "highestPrice": "₹950.00/Quintal"
+    },
+    "Karbuja(Musk Melon)": {
+      "lastUpdated": "23 Jun '23, 12:00 am",
+      "avgPrice": "₹875/Quintal",
+      "lowestPrice": "₹500.00/Quintal",
+      "highestPrice": "₹1250.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Mousambi(Sweet Lime)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹4575/Quintal",
+      "lowestPrice": "₹4000.00/Quintal",
+      "highestPrice": "₹5150.00/Quintal"
+    },
+    "Other Pulses": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Peas cod": {
+      "lastUpdated": "13 May '24, 12:00 am",
+      "avgPrice": "₹5625/Quintal",
+      "lowestPrice": "₹5000.00/Quintal",
+      "highestPrice": "₹6250.00/Quintal"
+    }
+  },
+  "dhari": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "23 Oct '23, 12:00 am",
+      "avgPrice": "₹2800/Quintal",
+      "lowestPrice": "₹1500.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    },
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "18 Oct '24, 12:00 am",
+      "avgPrice": "₹6060/Quintal",
+      "lowestPrice": "₹6060.00/Quintal",
+      "highestPrice": "₹6060.00/Quintal"
+    },
+    "Jowar(Sorghum)": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Soyabean": {
+      "lastUpdated": "18 Oct '24, 12:00 am",
+      "avgPrice": "₹3740/Quintal",
+      "lowestPrice": "₹3570.00/Quintal",
+      "highestPrice": "₹3960.00/Quintal"
+    }
+  },
+  "gondal-vegmarket-gondal": {
+    "Apple": {
+      "lastUpdated": "20 Oct '24, 12:00 am",
+      "avgPrice": "₹5500/Quintal",
+      "lowestPrice": "₹3500.00/Quintal",
+      "highestPrice": "₹7500.00/Quintal"
+    },
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹2750/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹3500.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹3250/Quintal",
+      "lowestPrice": "₹2500.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Mousambi(Sweet Lime)": {
+      "lastUpdated": "12 Aug '24, 12:00 am",
+      "avgPrice": "₹2250/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹2500.00/Quintal"
+    }
+  },
+  "kalol-vegmarketkalol": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹1500/Quintal",
+      "lowestPrice": "₹500.00/Quintal",
+      "highestPrice": "₹2500.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "06 Apr '24, 12:00 am",
+      "avgPrice": "₹800/Quintal",
+      "lowestPrice": "₹650.00/Quintal",
+      "highestPrice": "₹900.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Methi(Leaves)": {
+      "lastUpdated": "15 Apr '24, 12:00 am",
+      "avgPrice": "₹1500/Quintal",
+      "lowestPrice": "₹1500.00/Quintal",
+      "highestPrice": "₹1500.00/Quintal"
+    }
+  },
+  "kapadvanj": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2700/Quintal",
+      "lowestPrice": "₹2500.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "khambhat-veg-yard-khambhat": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹3750/Quintal",
+      "lowestPrice": "₹3500.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "mansa-manas-veg-yard": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹2000/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "10 Apr '24, 12:00 am",
+      "avgPrice": "₹1200/Quintal",
+      "lowestPrice": "₹1200.00/Quintal",
+      "highestPrice": "₹1200.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Methi(Leaves)": {
+      "lastUpdated": "21 Mar '24, 12:00 am",
+      "avgPrice": "₹1500/Quintal",
+      "lowestPrice": "₹1500.00/Quintal",
+      "highestPrice": "₹1500.00/Quintal"
+    },
+    "Turnip": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    }
+  },
+  "mehsana-mehsana-veg": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2300/Quintal",
+      "lowestPrice": "₹1000.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "morbi": {
+    "Arhar Dal(Tur Dal)": {
+      "lastUpdated": "11 Sep '24, 12:00 am",
+      "avgPrice": "₹9000/Quintal",
+      "lowestPrice": "₹9000.00/Quintal",
+      "highestPrice": "₹9000.00/Quintal"
+    },
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2500/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹7405/Quintal",
+      "lowestPrice": "₹6805.00/Quintal",
+      "highestPrice": "₹8005.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "mundra": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "07 Aug '24, 12:00 am",
+      "avgPrice": "₹3500/Quintal",
+      "lowestPrice": "₹3000.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "07 Aug '24, 12:00 am",
+      "avgPrice": "₹5000/Quintal",
+      "lowestPrice": "₹4000.00/Quintal",
+      "highestPrice": "₹6000.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "nadiad": {
+    "Carrot": {
+      "lastUpdated": "19 Dec '23, 12:00 am",
+      "avgPrice": "₹1600/Quintal",
+      "lowestPrice": "₹1500.00/Quintal",
+      "highestPrice": "₹1700.00/Quintal"
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "17 Oct '24, 12:00 am",
+      "avgPrice": "₹2500/Quintal",
+      "lowestPrice": "₹2400.00/Quintal",
+      "highestPrice": "₹2600.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "nadiyad-chaklasi": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "08 Jun '24, 12:00 am",
+      "avgPrice": "₹1050/Quintal",
+      "lowestPrice": "₹1000.00/Quintal",
+      "highestPrice": "₹1100.00/Quintal"
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "18 Oct '24, 12:00 am",
+      "avgPrice": "₹2500/Quintal",
+      "lowestPrice": "₹2400.00/Quintal",
+      "highestPrice": "₹2600.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "nadiyad-piplag": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "18 Oct '24, 12:00 am",
+      "avgPrice": "₹1000/Quintal",
+      "lowestPrice": "₹900.00/Quintal",
+      "highestPrice": "₹1100.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "23 Mar '24, 12:00 am",
+      "avgPrice": "₹1100/Quintal",
+      "lowestPrice": "₹1000.00/Quintal",
+      "highestPrice": "₹1200.00/Quintal"
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "18 Oct '24, 12:00 am",
+      "avgPrice": "₹2400/Quintal",
+      "lowestPrice": "₹2200.00/Quintal",
+      "highestPrice": "₹2600.00/Quintal"
+    },
+    "Kartali (Kantola)": {
+      "lastUpdated": "02 Oct '24, 12:00 am",
+      "avgPrice": "₹8000/Quintal",
+      "lowestPrice": "₹7000.00/Quintal",
+      "highestPrice": "₹9000.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Peas cod": {
+      "lastUpdated": "18 Oct '24, 12:00 am",
+      "avgPrice": "₹7850/Quintal",
+      "lowestPrice": "₹7500.00/Quintal",
+      "highestPrice": "₹8000.00/Quintal"
+    }
+  },
+  "navsari": {
+    "Apple": {
+      "lastUpdated": "29 Dec '23, 12:00 am",
+      "avgPrice": "₹9000/Quintal",
+      "lowestPrice": "₹7000.00/Quintal",
+      "highestPrice": "₹11000.00/Quintal"
+    },
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "17 Oct '24, 12:00 am",
+      "avgPrice": "₹2500/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "25 Jul '23, 12:00 am",
+      "avgPrice": "₹2750/Quintal",
+      "lowestPrice": "₹2500.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "17 Oct '24, 12:00 am",
+      "avgPrice": "₹4000/Quintal",
+      "lowestPrice": "₹3000.00/Quintal",
+      "highestPrice": "₹5000.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Methi(Leaves)": {
+      "lastUpdated": "17 Oct '24, 12:00 am",
+      "avgPrice": "₹5500/Quintal",
+      "lowestPrice": "₹5000.00/Quintal",
+      "highestPrice": "₹6000.00/Quintal"
+    },
+    "Soyabean": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "padra": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2750/Quintal",
+      "lowestPrice": "₹2500.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "29 Mar '24, 12:00 am",
+      "avgPrice": "₹1750/Quintal",
+      "lowestPrice": "₹1500.00/Quintal",
+      "highestPrice": "₹2000.00/Quintal"
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "21 Sep '24, 12:00 am",
+      "avgPrice": "₹14000/Quintal",
+      "lowestPrice": "₹12500.00/Quintal",
+      "highestPrice": "₹15000.00/Quintal"
+    },
+    "Kartali (Kantola)": {
+      "lastUpdated": "23 Sep '24, 12:00 am",
+      "avgPrice": "₹6750/Quintal",
+      "lowestPrice": "₹6000.00/Quintal",
+      "highestPrice": "₹7500.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Methi(Leaves)": {
+      "lastUpdated": "28 Mar '24, 12:00 am",
+      "avgPrice": "₹2125/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹2250.00/Quintal"
+    },
+    "Peas cod": {
+      "lastUpdated": "30 Dec '23, 12:00 am",
+      "avgPrice": "₹2250/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹2500.00/Quintal"
+    },
+    "Soyabean": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "palitana": {
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "18 Oct '24, 12:00 am",
+      "avgPrice": "₹5525/Quintal",
+      "lowestPrice": "₹4750.00/Quintal",
+      "highestPrice": "₹6250.00/Quintal"
+    },
+    "Jowar(Sorghum)": {
+      "lastUpdated": "18 Oct '24, 12:00 am",
+      "avgPrice": "₹2330/Quintal",
+      "lowestPrice": "₹2155.00/Quintal",
+      "highestPrice": "₹2505.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Methi(Leaves)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Soyabean": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹3800/Quintal",
+      "lowestPrice": "₹3675.00/Quintal",
+      "highestPrice": "₹3930.00/Quintal"
+    }
+  },
+  "porbandar": {
+    "Apple": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹5000/Quintal",
+      "lowestPrice": "₹4000.00/Quintal",
+      "highestPrice": "₹6000.00/Quintal"
+    },
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹1500/Quintal",
+      "lowestPrice": "₹1000.00/Quintal",
+      "highestPrice": "₹2000.00/Quintal"
+    },
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "18 Oct '24, 12:00 am",
+      "avgPrice": "₹6350/Quintal",
+      "lowestPrice": "₹6350.00/Quintal",
+      "highestPrice": "₹6350.00/Quintal"
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹5500/Quintal",
+      "lowestPrice": "₹5000.00/Quintal",
+      "highestPrice": "₹6000.00/Quintal"
+    },
+    "Jowar(Sorghum)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹3010/Quintal",
+      "lowestPrice": "₹2475.00/Quintal",
+      "highestPrice": "₹3550.00/Quintal"
+    },
+    "Kartali (Kantola)": {
+      "lastUpdated": "04 Sep '24, 12:00 am",
+      "avgPrice": "₹3500/Quintal",
+      "lowestPrice": "₹3000.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Methi(Leaves)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹5500/Quintal",
+      "lowestPrice": "₹5000.00/Quintal",
+      "highestPrice": "₹6000.00/Quintal"
+    },
+    "Mousambi(Sweet Lime)": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Soyabean": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹3550/Quintal",
+      "lowestPrice": "₹3375.00/Quintal",
+      "highestPrice": "₹3725.00/Quintal"
+    }
+  },
+  "rajkot-ghee-peeth": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "16 Jan '24, 12:00 am",
+      "avgPrice": "₹3700/Quintal",
+      "lowestPrice": "₹3500.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    },
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "16 Jan '24, 12:00 am",
+      "avgPrice": "₹1200/Quintal",
+      "lowestPrice": "₹750.00/Quintal",
+      "highestPrice": "₹1650.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Soyabean": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  },
+  "rajkot-vegsub-yard": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2000/Quintal",
+      "lowestPrice": "₹1500.00/Quintal",
+      "highestPrice": "₹2500.00/Quintal"
+    },
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹7500/Quintal",
+      "lowestPrice": "₹5000.00/Quintal",
+      "highestPrice": "₹10000.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Soyabean": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    }
+  },
+  "surat": {
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Carrot": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹2650/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹3250.00/Quintal"
+    },
+    "French Beans (Frasbean)": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹7750/Quintal",
+      "lowestPrice": "₹5500.00/Quintal",
+      "highestPrice": "₹10000.00/Quintal"
+    },
+    "Kartali (Kantola)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹8750/Quintal",
+      "lowestPrice": "₹8000.00/Quintal",
+      "highestPrice": "₹9500.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Peas cod": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Soyabean": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Sweet Potato": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹3500/Quintal",
+      "lowestPrice": "₹2500.00/Quintal",
+      "highestPrice": "₹4500.00/Quintal"
+    }
+  },
+  "talalagir": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2000/Quintal",
+      "lowestPrice": "₹1500.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Carrot": {
+      "lastUpdated": "03 Aug '23, 12:00 am",
+      "avgPrice": "₹3500/Quintal",
+      "lowestPrice": "₹2500.00/Quintal",
+      "highestPrice": "₹5000.00/Quintal"
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Kartali (Kantola)": {
+      "lastUpdated": "18 Aug '23, 12:00 am",
+      "avgPrice": "₹14000/Quintal",
+      "lowestPrice": "₹13000.00/Quintal",
+      "highestPrice": "₹15000.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Soyabean": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    }
+  },
+  "vadhvan": {
+    "Apple": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹10250/Quintal",
+      "lowestPrice": "₹10000.00/Quintal",
+      "highestPrice": "₹10500.00/Quintal"
+    },
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2250/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹2500.00/Quintal"
+    },
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Carrot": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹2750/Quintal",
+      "lowestPrice": "₹2500.00/Quintal",
+      "highestPrice": "₹3000.00/Quintal"
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹6750/Quintal",
+      "lowestPrice": "₹6500.00/Quintal",
+      "highestPrice": "₹7000.00/Quintal"
+    },
+    "French Beans (Frasbean)": {
+      "lastUpdated": "27 May '24, 12:00 am",
+      "avgPrice": "₹3750/Quintal",
+      "lowestPrice": "₹3500.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Methi(Leaves)": {
+      "lastUpdated": "21 Oct '24, 12:00 am",
+      "avgPrice": "₹4750/Quintal",
+      "lowestPrice": "₹4500.00/Quintal",
+      "highestPrice": "₹5000.00/Quintal"
+    },
+    "Soyabean": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Sweet Potato": {
+      "lastUpdated": "20 Jul '24, 12:00 am",
+      "avgPrice": "₹3000/Quintal",
+      "lowestPrice": "₹2500.00/Quintal",
+      "highestPrice": "₹3500.00/Quintal"
+    }
+  },
+  "vadodara-sayajipura": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "07 Aug '24, 12:00 am",
+      "avgPrice": "₹3050/Quintal",
+      "lowestPrice": "₹2000.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    },
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Carrot": {
+      "lastUpdated": "07 Aug '24, 12:00 am",
+      "avgPrice": "₹1500/Quintal",
+      "lowestPrice": "₹1000.00/Quintal",
+      "highestPrice": "₹2000.00/Quintal"
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "07 Aug '24, 12:00 am",
+      "avgPrice": "₹4900/Quintal",
+      "lowestPrice": "₹4500.00/Quintal",
+      "highestPrice": "₹5000.00/Quintal"
+    },
+    "French Beans (Frasbean)": {
+      "lastUpdated": "07 Aug '24, 12:00 am",
+      "avgPrice": "₹5800/Quintal",
+      "lowestPrice": "₹5500.00/Quintal",
+      "highestPrice": "₹6000.00/Quintal"
+    },
+    "Kartali (Kantola)": {
+      "lastUpdated": "07 Aug '24, 12:00 am",
+      "avgPrice": "₹9550/Quintal",
+      "lowestPrice": "₹8000.00/Quintal",
+      "highestPrice": "₹11000.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Methi(Leaves)": {
+      "lastUpdated": "07 Aug '24, 12:00 am",
+      "avgPrice": "₹3900/Quintal",
+      "lowestPrice": "₹3800.00/Quintal",
+      "highestPrice": "₹4000.00/Quintal"
+    },
+    "Soyabean": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Sweet Potato": {
+      "lastUpdated": "18 Jan '24, 12:00 am",
+      "avgPrice": "₹1800/Quintal",
+      "lowestPrice": "₹1500.00/Quintal",
+      "highestPrice": "₹2000.00/Quintal"
+    }
+  },
+  "vankaner-sub-yard": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    },
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Soyabean": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    }
+  },
+  "vijapur-veg": {
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Methi(Leaves)": {
+      "lastUpdated": "25 Jan '24, 12:00 am",
+      "avgPrice": "₹650/Quintal",
+      "lowestPrice": "₹550.00/Quintal",
+      "highestPrice": "₹800.00/Quintal"
+    },
+    "Soyabean": {
+      "lastUpdated": "N/A",
+      "avgPrice": "N/A",
+      "lowestPrice": "N/A",
+      "highestPrice": "N/A"
+    }
+  },
+  "visnagar": {
+    "Bhindi(Ladies Finger)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Black Gram (Urd Beans)(Whole)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹6632/Quintal",
+      "lowestPrice": "₹5000.00/Quintal",
+      "highestPrice": "₹8265.00/Quintal"
+    },
+    "Coriander(Leaves)": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    },
+    "Jowar(Sorghum)": {
+      "lastUpdated": "19 Oct '24, 12:00 am",
+      "avgPrice": "₹4462/Quintal",
+      "lowestPrice": "₹4250.00/Quintal",
+      "highestPrice": "₹4675.00/Quintal"
+    },
+    "Kutki": {
+      "lastUpdated": "",
+      "avgPrice": "",
+      "lowestPrice": "",
+      "highestPrice": ""
+    }
+  }
+}
